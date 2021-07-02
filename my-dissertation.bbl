@@ -1,0 +1,228 @@
+\begin{thebibliography}{10}
+
+\bibitem{williams1996}
+L.~M. Toth, U.~Gat, G.~D. Del~Cul, S.~Dai, and D.~F. Williams.
+\newblock {\em Review of ORNL's MSR Technology and Status}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1996.
+\newblock ORNL-960639-6.
+
+\bibitem{engel1970}
+Paul~N. Haubenreich and J.~R. Engel.
+\newblock Experience with the molten-salt reactor experiment.
+\newblock {\em Nuclear application and Technology}, 8:118--136, 1970.
+
+\bibitem{grimes1970}
+W.~R. Grimes.
+\newblock Molten-salt reactor chemistry.
+\newblock {\em Nuclear application and Technology}, 8:137--155, 1970.
+
+\bibitem{baes1965}
+C.~F. Baes.
+\newblock {\em The Chemistry and Thermodynamics of Molten Salt Reactor Fluoride
+  Solutions}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1965.
+\newblock ORNL-p-1428.
+
+\bibitem{cantor1968}
+S.~Cantor, J.~W. Cooke, A.~S. Dworkin, G.~D. Robbins, R.~E. Thoma, and G.~M.
+  Watson.
+\newblock {\em Physical Properties of Molten-Salt Reactor Fuel, Coolant, and
+  Flush Salts}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1968.
+\newblock ORNL-TM-2316.
+
+\bibitem{nestor1960}
+C.~W. Nestor.
+\newblock {\em Reactor Physics Calculations for the MSRE}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1960.
+\newblock ORNL--60-7-96.
+
+\bibitem{bell1970}
+M.~J. Bell.
+\newblock {\em Calculated Radioactivity of MSRE Fuel Salt}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1970.
+\newblock ORNL-TM-2970.
+
+\bibitem{prince1962}
+B.~E. Prince and J.~R. Engel.
+\newblock {\em Temperature and Reactivity Coefficient Averaging in the MSRE}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1962.
+\newblock ORNL-TM-1962.
+
+\bibitem{engel1971}
+J.~R. Engel and R.~C. Steffy.
+\newblock {\em Xenon Behavior in the Molten Salt Reactor Experiment}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1971.
+\newblock ORNL--TM--3464.
+
+\bibitem{peebles1968}
+R.~N. Peebles.
+\newblock {\em Removal of Xenon-135 from Circulating Fuel Salt of the MSBR by
+  Mass Transfer to Helium Bubbles}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1968.
+\newblock ORNL--TM--2245.
+
+\bibitem{kedl1967}
+R.~J. Kedl.
+\newblock {\em A Model for Computing the Migration of Very Short-Lived Noble
+  Gases into MSRE Graphite}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1967.
+\newblock ORNL--TM--1810.
+
+\bibitem{kedl1972}
+R.~J. Kedl.
+\newblock {\em The Migration of a Class of Fission Products (Noble Metals) in
+  the Molten-Salt Reactor Experiment}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1972.
+\newblock ORNL--3884.
+
+\bibitem{cammi2011}
+Antonio Cammi, Valentino~Di Marcello, Lelio Luzzi, Vito Memoli, and
+  Marco~Enrico Ricotti.
+\newblock A multi-physics modelling approach to the dynamics of molten salt
+  reactors.
+\newblock {\em Annals of Nuclear Energy}, 38(6):1356 -- 1372, 2011.
+
+\bibitem{benes2008}
+Ondrej Benes.
+\newblock {\em Thermodynamics of Molten Salts of Nuclear Applications}.
+\newblock PhD thesis, Institute of chemical technology, Prague, 2008.
+\newblock European Commission - Joint Research Centre - Institute for
+  Transuranium Elements.
+
+\bibitem{eades2016}
+Michael~J. Eades, Ethan~S. Chaleff, Paolo~F. Venneri, and Thomas~E. Blue.
+\newblock The influence of xe-135m on steady-state xenon worth in thermal
+  molten salt reactors.
+\newblock {\em Progress in Nuclear Energy}, 93:397 -- 405, 2016.
+
+\bibitem{wu2017}
+Jianhui Wu, Chen Guo, Xiangzhou Cai, Chenggang Yu, Chunyan Zou, Jianlong Han,
+  and Jingen Chen.
+\newblock Flow effect on 135i and 135xe evolution behavior in a molten salt
+  reactor.
+\newblock {\em Nuclear Engineering and Design}, 314:318 -- 325, 2017.
+
+\bibitem{zack2018}
+Zack Taylor, Robert Salko, Ben Collins, and Ivan Maldonado.
+\newblock Implementation of general species transport into vera-cs for molten
+  salt reactor analysis.
+\newblock {\em Transactions of the American Nuclear Society}, 118(2), 2018.
+
+\bibitem{duderstadt1976}
+James~J. Duderstadt and Louis~J. Hamilton.
+\newblock {\em Nuclear Reactor Analysis}.
+\newblock John Wiley and Sons, 1976.
+
+\bibitem{fissionBasics}
+AJ~Software and Multimedia.
+\newblock {\em Nuclear fission basics}, 2015.
+
+\bibitem{grimes1975}
+E.~L. Compere, S.~S. Kirslis, E.~G. Bohlmann, F.~F. Blankenship, and W.~R.
+  Grimes.
+\newblock {\em Fission Product Behavior in the Molten Salt Reactor Experiment}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1975.
+\newblock ORNL--4865.
+
+\bibitem{powers2016}
+Jess~C. Gehin and Jeffrey~J. Powers.
+\newblock Liquid fuel molten salt reactors for thorium utilization.
+\newblock {\em Nuclear Technology}, 194(2):152--161, 2016.
+
+\bibitem{baes1974}
+Jr. C.~F.~Baes.
+\newblock The chemistry and thermodynamics of molten salt reactor fuels.
+\newblock {\em Journal of Nuclear Materials}, 51:149--162, 1974.
+
+\bibitem{casl}
+The~Consortium for Advanced Simulation~of Light Water~Reactors.
+\newblock {\em CASL home page}, 2019.
+
+\bibitem{salko2017}
+R.~Salko, A.~Wysocki, M.~Avramova, A.~Toptan, N.~Porter, T.~Blyth, C.~Dances,
+  A.~Gomez, C.~Jernigan, and J.~Kelly.
+\newblock {\em CTF Theory Manual}.
+\newblock The North Carolina State University, 2017.
+
+\bibitem{houtzeel1970}
+J.~R. Engel, P.~N. Haubenreich, and A.~Houtzeel.
+\newblock {\em Spray, MIST, Bubbles, and Foam in the Molten Salt Reactor
+  Experiment}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1970.
+\newblock ORNL--TM--3027.
+
+\bibitem{steffy1969}
+J.~R. Engel and R.~C. Steffy.
+\newblock {\em Molten-Salt Reactor Program Semiannual Progress Report for
+  Period Ending August 31,1969}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1969.
+\newblock ORNL--4449.
+
+\bibitem{watson1962}
+G.~M. Watson and R.~B. Evans.
+\newblock {\em Xenon Diffusion in Graphite: Effects of Xenon Absorption in
+  Molten Salt Reactors Containing Graphite}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1962.
+\newblock ORNL--TM--262.
+
+\bibitem{houtzeel1967}
+R.~J. Kedl and A.~Houtzeel.
+\newblock {\em Development of a Model for Computing ${}^{135}Xe$ Migration in
+  the MSRE}.
+\newblock Oak Ridge National Laboratory, Oak Ridge, TN, 1967.
+\newblock ORNL--4069.
+
+\bibitem{olander2002}
+D.~Olander.
+\newblock Redox condition of molten fluoride salts definition and control.
+\newblock {\em Journal of Nuclear Materials}, 300:270--272, 2002.
+
+\bibitem{deen2016}
+William~M. Deen.
+\newblock {\em Analysis of Transport Phenomena}.
+\newblock Oxford University Press., New York, 2 edition, 2016.
+
+\bibitem{wilson1969}
+James~R. Welty, Charles~E. Wicks, and Robert~E. Wilson.
+\newblock {\em Fundamentals of Momentum Heat and Mass Transfer}.
+\newblock John Wiley and Sons, Inc., New York, 1969.
+
+\bibitem{bird2006}
+R.~Byron Bird, Warren~E. Stewart, and Edwin~N. Lightfoot.
+\newblock {\em Transport Phenomena}.
+\newblock John Wiley and Sons, Inc., New York, revised 2 edition, 2006.
+
+\bibitem{perry2007}
+Don~W. Green and Robert~H. Perry.
+\newblock {\em Perry's Chemical Engineers' Handbook}.
+\newblock McGraw Hill Professional, New York, 8th edition, 2007.
+
+\bibitem{asano2006}
+Koichi Asano.
+\newblock {\em Mass Transfer. From Fundamentals to Modern Industrial
+  Applications.}
+\newblock Wiley-VCH Werlang CmbH and C. KGaA, Weinheim, 2006.
+
+\bibitem{kazimi1990}
+Neil~E. Todreas and Mujid~S. Kazimi.
+\newblock {\em NUCLEAR SYSTEMS I Thermal Hydraulic Fundamentals}.
+\newblock Hemisphere Publishing Corporation., 1990.
+
+\bibitem{versteeg2007}
+H~K Versteeg and W~Malalasekera.
+\newblock {\em An Introduction to Computational Fluid Dynamics The Finite
+  Volume Method}.
+\newblock Pearson Prentice Hall, 2nd edition, 2007.
+
+\bibitem{cole2019}
+Cole Gentry.
+\newblock personal communication with Cole Gentry. Calculation was done in
+  MPACT using a single pin cell model.
+
+\bibitem{piro2013}
+M.H.A. Piro, S.~Simunovic, T.M. Besmann, B.J. Lewis, and W.T. Thompson.
+\newblock The thermochemistry library thermochimica.
+\newblock {\em Computational Materials science}, 67:266--272, 2013.
+
+\end{thebibliography}

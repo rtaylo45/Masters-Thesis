@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: my-dissertation.aux
+A level-1 auxiliary file: front-matter/dedication.aux
+A level-1 auxiliary file: front-matter/acknowledgments.aux
+A level-1 auxiliary file: front-matter/abstract.aux
+A level-1 auxiliary file: front-matter.aux
+A level-1 auxiliary file: chapters/chapter-1.aux
+A level-1 auxiliary file: chapters/chapter-2.aux
+A level-1 auxiliary file: chapters/chapter-3.aux
+A level-1 auxiliary file: chapters/chapter-4.aux
+A level-1 auxiliary file: chapters/chapter-5.aux
+A level-1 auxiliary file: chapters/chapter-6.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: back-matter/vita.aux
+Database file #1: references-dissertation.bib
+You've used 38 entries,
+            1791 wiz_defined-function locations,
+            654 strings with 8952 characters,
+and the built_in function-call counts, 6936 in all, are:
+= -- 610
+> -- 356
+< -- 0
++ -- 136
+- -- 98
+* -- 388
+:= -- 1181
+add.period$ -- 127
+call.type$ -- 38
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 307
+empty$ -- 684
+format.name$ -- 98
+if$ -- 1531
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 26
+newline$ -- 206
+num.names$ -- 38
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 88
+stack$ -- 0
+substring$ -- 237
+swap$ -- 56
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 53
+width$ -- 40
+write$ -- 442
